@@ -1,3 +1,3 @@
-@author GlitchProgrammerHash
+@author azymuthCodes
 
 Snake Game made using PyGame
