@@ -1,4 +1,4 @@
-                                                        🐍SNAKE GAME
+                                              🐍SNAKE GAME
 
 @author azymuthCodes
 
